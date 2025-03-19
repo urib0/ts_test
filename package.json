@@ -4,14 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/urib0/ts_test.git"
-  },
+  "repository": "git+https://github.com/urib0/ts_test.git",
   "keywords": [],
-  "author": "",
+  "author": "uribo <ur1b0.dev@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/urib0/ts_test/issues"
