@@ -1,0 +1,11 @@
+最初にやるやつ
+
+npm init -y  # package.jsonを作成
+npm install typescript --save-dev  # TypeScriptをインストール
+npx tsc --init
+
+
+コンパイル
+npx tsc
+
+
