@@ -8,4 +8,5 @@ npx tsc --init
 コンパイル
 npx tsc
 
-
+実行
+npx index.ts
