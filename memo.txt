@@ -6,7 +6,7 @@ npx tsc --init
 
 
 コンパイル
-npx tsc
+yarn build
 
 実行
-npx index.ts
+yarn start
